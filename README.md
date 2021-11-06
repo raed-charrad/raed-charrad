@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raed charrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raed charrad" height="30" width="40" /></a>
-<a href="https://fb.com/raed charrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raed charrad" height="30" width="40" /></a>
-<a href="https://instagram.com/charradr-raed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charradr-raed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raed-charrad-53387a200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raed-charrad-53387a200" height="30" width="40" /></a>
+<a href="https://fb.com/raed.charrad.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raed.charrad.92" height="30" width="40" /></a>
+<a href="https://instagram.com/charradr_raed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charradr_raed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
