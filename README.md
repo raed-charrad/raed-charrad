@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raed-charrad" alt="raed-charrad" /></a> </p>
 
-- 🔭 I’m currently studying IT at **the Higher Institute of Technological Studies of Bizerte**
+- 🔭 I studied IT at **the Higher Institute of Technological Studies of Bizerte**
 
 - 💬 Ask me about **Robotics and web developments**
 
