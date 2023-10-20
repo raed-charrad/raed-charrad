@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raed Charrad</h1>
 <h3 align="center">A passionate developer and graphic designer from Tunisia</h3>
 
+[![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raed-charrad&label=Profile%20views&color=0e75b6&style=flat" alt="raed-charrad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raed-charrad" alt="raed-charrad" /></a> </p>
